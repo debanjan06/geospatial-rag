@@ -1,4 +1,4 @@
-# GeoSpatial-RAG: Remote Sensing Retrieval-Augmented Generation Framework
+# GeoSpatial-RAG:An AI Framework For Analysis Of Remote Sensing Images
 
 A novel AI framework designed for analyzing remote sensing images using retrieval-augmented generation (RAG) with multimodal large language models.
 
