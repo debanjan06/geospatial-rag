@@ -1,7 +1,5 @@
 # 🛰️ GeoSpatial-RAG: An AI Framework For Analysis Of Remote Sensing Images
 
-# GeoSpatial-RAG: AI-Powered Remote Sensing Analysis Assistant
-
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
