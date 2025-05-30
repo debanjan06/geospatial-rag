@@ -1,4 +1,4 @@
-# 🛰️ GeoSpatial-RAG: AI-Powered Remote Sensing Analysis
+# 🛰️ GeoSpatial-RAG: An AI Framework For Analysis Of Remote Sensing Images
 
 > **An intelligent assistant for analyzing satellite imagery using cutting-edge RAG technology**
 
