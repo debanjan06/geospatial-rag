@@ -157,27 +157,6 @@ The system demonstrates:
 - Agricultural land use classification
 - Infrastructure and transportation analysis
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{shil2024geospatial,
-  title={GeoSpatial-RAG: Remote Sensing Retrieval-Augmented Generation Framework},
-  author={Shil, Debanjan and Gupta, Deepa},
-  journal={School of Computing, Amrita Viswa Vidyapeetham},
-  year={2024}
-}
-```
-
 ## Acknowledgments
 
 - RSICD dataset for remote sensing image captioning
