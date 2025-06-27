@@ -345,20 +345,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📖 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{shil2024geospatial,
-  title={GeoSpatial-RAG: An AI Framework For Analysis Of Remote Sensing Images},
-  author={Shil, Debanjan and Bhattacharya, Partha Priya and Gupta, Deepa},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2024},
-  publisher={IEEE}
-}
-```
-
 ## 🔗 Related Work & References
 
 - **CLIP**: [Learning Transferable Visual Representations](https://arxiv.org/abs/2103.00020)
