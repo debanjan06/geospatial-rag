@@ -54,17 +54,17 @@ def main():
         import shutil
         shutil.copy(".env.example", ".env")
         print("✅ Created .env file from .env.example")
-        print("📝 Please edit .env file with your specific configuration")
+        print("📝 Please edit .env file with specific configuration")
     
     print("\n" + "="*60)
     print("🎉 GeoSpatial-RAG Quick Start Completed!")
     print("="*60)
     
     print("\n📋 Next Steps:")
-    print("1. Edit .env file with your dataset paths and API keys")
-    print("2. Update your existing notebook to use the new package structure")
+    print("1. Edit .env file with dataset paths and API keys")
+    print("2. Update existing notebook to use the new package structure")
     print("3. Test: python -c \"import sys; sys.path.append('./src'); from geospatial_rag import GeoSpatialRAG\"")
-    print("4. Run interactive demo with your existing database")
+    print("4. Run interactive demo with existing database")
 
 
 if __name__ == "__main__":
