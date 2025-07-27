@@ -341,12 +341,29 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Related Work & References
+## 📚 References
 
-- **CLIP**: [Learning Transferable Visual Representations](https://arxiv.org/abs/2103.00020)
-- **BLIP**: [Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2201.12086)
-- **LangChain**: [Building applications with LLMs](https://github.com/langchain-ai/langchain)
-- **RSICD Dataset**: [Exploring Models and Data for Remote Sensing Image Caption Generation](https://github.com/201528014227051/RSICD_optimal)
+This work builds upon and is inspired by the following research:
+
+[1] L. Fang et al., "Open-world recognition in remote sensing: Concepts, challenges, and opportunities," *IEEE Geosci. Remote Sens. Mag.*, vol. 12, no. 2, pp. 8–31, 2024.
+
+[2] R. M. Haralick, K. Shanmugam, and I. Dinstein, "Textural features for image classification," *IEEE Trans. Syst., Man, Cybern.*, vol. SMC-3, no. 6, pp. 610–621, 1973.
+
+[3] K. Kuckreja, M. S. Danish, M. Naseer, A. Das, S. Khan, and F. S. Khan, "Geochat: Grounded large vision-language model for remote sensing," *arXiv preprint arXiv:2311.15826*, 2023.
+
+[4] R. Xu, C. Wang, J. Zhang, S. Xu, W. Meng, and X. Zhang, "Rssformer: Foreground saliency enhancement for remote sensing land-cover segmentation," *IEEE Trans. Image Process.*, vol. 32, pp. 1052–1064, 2023.
+
+[5] J. Lin, Z. Yang, Q. Liu, Y. Yan, P. Ghamisi, W. Xie, and L. Fang, "Hslabeling: Toward efficient labeling for large-scale remote sensing image segmentation with hybrid sparse labeling," *IEEE Trans. Image Process.*, vol. 34, pp. 1864–1878, 2025.
+
+[6] W. Zhang, M. Cai, T. Zhang, Y. Zhuang, and X. Mao, "Earthgpt: A universal multimodal large language model for multisensor image comprehension in remote sensing domain," *IEEE Trans. Geosci. Remote Sens.*, vol. 62, p. 5917820, 2024.
+
+[7] Y. Hu, J. Yuan, C. Wen, X. Lu, and X. Li, "Rsgpt: A remote sensing vision language model and benchmark," *arXiv preprint arXiv:2307.15266*, 2023.
+
+[8] L. Zhu, F. Wei, and Y. Lu, "Beyond text: Frozen large language models in visual signal comprehension," in *Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit.*, pp. 27047–27057, 2024.
+
+[9] Z. Yuan, Z. Xiong, L. Mou, and X. X. Zhu, "Chatearthnet: A global-scale image–text dataset empowering vision–language geo-foundation models," *Earth Syst. Sci. Data*, vol. 17, pp. 1245–1263, 2025.
+
+[10] X. Lu, B. Wang, X. Zheng, and X. Li, "Exploring models and data for remote sensing image caption generation," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 56, no. 4, pp. 2183–2195, 2018.
 
 ## 🏆 Acknowledgments
 
