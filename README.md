@@ -216,31 +216,27 @@ Our system has been tested and validated with impressive results:
 
 ```
 geospatial-rag/
-├── src/geospatial_rag/           # Main package
+├── src/
 │   ├── __init__.py
-│   ├── embeddings.py             # CLIP embedding generation
-│   ├── database.py               # SQLite database operations
-│   ├── retriever.py              # Custom retriever class
-│   ├── pipeline.py               # Main RAG pipeline
-│   ├── utils.py                  # Utility functions
-│   └── models/
-│       └── vlm_models.py         # Vision-language models
+│   └── geospatial_rag/           # Main package
+│       ├── __init__.py
+│       ├── embeddings.py         # CLIP embedding generation
+│       ├── database.py           # SQLite database operations
+│       ├── retriever.py          # Custom retriever class
+│       ├── pipeline.py           # Main RAG pipeline
+│       └── utils.py              # Utility functions
 ├── demo/
 │   └── interactive_demo.py       # Command-line interface
-├── scripts/
-│   ├── generate_embeddings.py    # Data preprocessing
-│   └── create_database.py        # Database creation
-├── notebooks/
-│   └── examples/                 # Example notebooks
 ├── tests/
-│   ├── test_embeddings.py
-│   ├── test_database.py
-│   └── test_pipeline.py
-├── docs/                         # Documentation
+│   └── test_*.py                 # Test modules
 ├── streamlit_app.py              # Web interface
+├── setup_web_interface.py       # Web interface setup
+├── quick_start.py                # Quick start script
+├── test_database.py             # Database testing
 ├── requirements.txt              # Dependencies
 ├── setup.py                      # Package setup
-├── .env.example                  # Configuration template
+├── LICENSE                       # MIT License
+├── .gitignore                   # Git ignore rules
 └── README.md                     # This file
 ```
 
